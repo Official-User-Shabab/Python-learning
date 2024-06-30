@@ -2,32 +2,32 @@
 
 ## Lessons/Files
 
-[] Comments
+- [x] Comments
 
-[ ] Variables
+- [x] Variables
 
-[ ] Data Types
+- [ ] Data Types
 
-[ ] Numbers
+- [ ] Numbers
 
-[ ] Strings
+- [ ] Strings
 
-[ ] Booleans
+- [ ] Booleans
 
-[ ] Casting/Converting
+- [ ] Casting/Converting
 
-[ ] Lists
+- [ ] Lists
 
-[ ] Tuples
+- [ ] Tuples
 
-[ ] Sets
+- [ ] Sets
 
-[ ] Dictionaries
+- [ ] Dictionaries
 
-[ ] 
+- [ ] 
 
-[ ] 
+- [ ] 
 
-[ ] 
+- [ ] 
 
 ## Another title
