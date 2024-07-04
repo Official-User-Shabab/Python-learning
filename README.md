@@ -6,7 +6,7 @@
 
 - [x] Variables
 
-- [ ] Data Types
+- [x] Data Types
 
 - [ ] Numbers
 
