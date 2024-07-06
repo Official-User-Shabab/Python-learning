@@ -8,7 +8,7 @@
 
 - [x] Data Types
 
-- [ ] Numbers
+- [x] Numbers
 
 - [ ] Strings
 
