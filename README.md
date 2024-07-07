@@ -10,7 +10,7 @@
 
 - [x] Numbers
 
-- [ ] Strings
+- [x] Strings
 
 - [ ] Booleans
 
