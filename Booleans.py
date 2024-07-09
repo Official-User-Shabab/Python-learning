@@ -10,3 +10,10 @@ if age == 1:
   print(f"You are {age} years old") # These are f strings
 
 # Nothing will be printed if the age was not 1
+
+# To check whether something is of a data type, use function seen below:
+
+x = 46
+print(isinstance(x, int)) # Will be true
+
+# Keywords for this function's data types are: int, str, bool, float, complex
