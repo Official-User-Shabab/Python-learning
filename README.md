@@ -2,32 +2,46 @@
 
 ## Lessons/Files
 
-- [x] Comments
+- [x] 1) Comments
 
-- [x] Variables
+- [x] 2) Variables
 
-- [x] Data Types
+- [x] 3) Data Types
 
-- [x] Numbers
+- [x] 4) Numbers
 
-- [x] Strings
+- [x] 5) Strings
 
-- [ ] Booleans
+- [x] 6) Booleans
 
-- [ ] Casting/Converting
+- [ ] 7) Casting/Converting
 
-- [ ] Lists
+- [ ] 8.1) Arrays
 
-- [ ] Tuples
+- [ ] 8.2) Lists
 
-- [ ] Sets
+- [ ] 8.3) Tuples
 
-- [ ] Dictionaries
+- [ ] 8.4) Sets
 
-- [ ] 
+- [ ] 8.5) Dictionaries
 
-- [ ] 
+- [ ] 9) Iterators
 
-- [ ] 
+- [ ] 10) If-Else statements
+
+- [ ] 11) Loops (While and For)
+
+- [ ] 12) File Handling
+
+- [ ] 13.1) Functions
+
+- [ ] 13.2) Modules
+
+- [ ] 13.3) Classes/Objects
+
+- [ ] 13.4) Inheritance
+
+- [ ] 13.5) Polymorphism
 
 ## Another title
