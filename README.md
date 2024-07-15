@@ -14,7 +14,7 @@
 
 - [x] 6) Booleans
 
-- [ ] 7) Casting/Converting
+- [x] 7) Casting/Converting
 
 - [ ] 8.1) Arrays
 
