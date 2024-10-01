@@ -15,7 +15,7 @@
 - [ ] 8.4) Sets
 - [ ] 8.5) Dictionaries
 - [ ] 9) Iterators
-- [ ] 10) If-Else statements
+- [x] 10) If-Else statements
 - [ ] 11) Loops (While and For)
 - [ ] 12) File Handling
 - [ ] 13.1) Functions
