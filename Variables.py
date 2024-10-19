@@ -12,3 +12,5 @@ mE = 'still not you' # strings can be just one speech mark too! (not preferred)
 # DO NOT START A VARIABLE NAME WITH A NUMBER OR SYMBOL
 # DO NOT USE A PYTHON KEYWORD LIKE "print"
 # ONLY USE ALPHANUMERIC CHARACHTERS AND UNDERSCORES IN YOUR VARIABLE NAME
+
+# Think of variables like boxes that hold a value, a string, number, decimal, whatever
